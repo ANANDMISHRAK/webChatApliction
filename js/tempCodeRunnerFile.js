@@ -1,0 +1,1 @@
+ append(`${names} joined the chat`, 'right');
